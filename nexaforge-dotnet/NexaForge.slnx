@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NexaForge.Api/NexaForge.Api.csproj" />
+    <Project Path="src/NexaForge.Ordering/NexaForge.Ordering.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NexaForge.Ordering.Tests/NexaForge.Ordering.Tests.csproj" />
+  </Folder>
+</Solution>
